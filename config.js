@@ -12,7 +12,7 @@ var config = {
     auto: false,
     title: 'Example 101',
     subtitle: 'A descriptive and interesting subtitle to draw in the reader',
-    byline: 'By a Digital Storyteller',
+    byline: 'By a Diana Botchway Frimpong',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
